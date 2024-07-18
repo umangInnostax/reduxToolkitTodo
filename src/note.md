@@ -3,9 +3,12 @@ npm install @reduxjs/toolkit
 npm install react-redux
 
 => store and reducers belong to redux completely
+
 => useSelector and useDispatch are for react -> They are react wireup.
 
+
 =>dispatch change the value in store by using reducer
+
 
 - React and Redux-react are different. 
   - React is library while react-redux is implementation for wiring between react and redux
