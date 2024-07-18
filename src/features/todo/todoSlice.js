@@ -8,7 +8,7 @@ export const todoSlice = createSlice({
     name:'todo', 
     initialState,
     reducers:{
-        addTodo: (state, action) => {                       // state will take value from initialState. state is current state
+        addTodo: (state, action) => {                       // state will start from initialState. state is current state
             const todo = {
                 id: nanoid(), 
                 text: action.payload
