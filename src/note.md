@@ -11,7 +11,7 @@ npm install react-redux
 - - React is library while react-redux is implementation for wiring between react and redux
 
 - Start with store. We will save data in store.
-- - Every application has single store.
+  - Every application has single store.
 - We have tell store where are my reducer
 - Reducer location - 'src/features/todo/todoSlice.js'
 - For slice (todoSlice in todoSlice.js) we requrired three things
