@@ -1,8 +1,8 @@
 **We have use Redux toolkit not redux**
 
 //For start redux
-npm install @reduxjs/toolkit
-npm install react-redux
+- npm install @reduxjs/toolkit
+- npm install react-redux
 
 => store and reducers belong to redux completely
 
